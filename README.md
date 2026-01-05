@@ -12,4 +12,5 @@ https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
 https://claude.ai/public/artifacts/8a773548-d360-418b-a20b-d427dc7a1952
 https://claude.ai/public/artifacts/1e531122-1b45-4337-86a2-df8bc2ac531b
 
-
+Proof for the Policy Gradient Theorem
+https://miro.com/app/board/uXjVIsgkBts=/
